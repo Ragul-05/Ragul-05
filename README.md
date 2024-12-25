@@ -27,6 +27,6 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-05&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul=05&theme=dark&show_icons=true&&hide=issues,contribs)
+![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul-05&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ragul-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
