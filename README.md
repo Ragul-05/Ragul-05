@@ -11,22 +11,12 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 ---
 
 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### IDE and Tools I Use
 
-- ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-- ![NetBeans](https://img.icons8.com/color/48/000000/netbeans.png)
-- ![GitHub](https://img.icons8.com/color/48/000000/git.png)
-- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
-- ![Canva](https://img.icons8.com/color/48/000000/canva.png)
+- ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)- ![NetBeans](https://img.icons8.com/color/48/000000/netbeans.png)- ![GitHub](https://img.icons8.com/color/48/000000/git.png)- ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)- ![Canva](https://img.icons8.com/color/48/000000/canva.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-m-k-g-0322b825a/)
