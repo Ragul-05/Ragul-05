@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 Hi there! 👋  
 I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineering and Technology**.  
@@ -10,7 +10,8 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,32 +23,49 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 
 ---
 
-## ✨ IDEs and Tools:
+## ✨ IDEs and Tools
 
-### 🛠 IDEs:
+### 🛠 IDEs
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
 
-### 🗄️ Database Management Tools:
+### 🗄️ Database Management Tools
 ![MySQL Server](https://img.icons8.com/color/48/000000/mysql-logo.png)
 ![pgAdmin](https://img.icons8.com/color/48/000000/postgresql.png)
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-m-k-g-0322b825a/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ragul_gopinath/)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Ragul-05&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ragul-05&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragul-05&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Ragul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragul-05&theme=dark&show_icons=true&&hide=issues,contribs)
 
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ragul-05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 📈 GitHub Activity Graph
+
 [![Ragul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ragul-05&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Ragul-05&icon=6&color=8)](https://visitcount.itsvg.in)
