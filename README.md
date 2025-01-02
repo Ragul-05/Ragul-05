@@ -17,17 +17,22 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
 ## ✨ IDEs and Tools
 
 ### 🛠 IDEs
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  
+![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)  
+![Anaconda](https://img.icons8.com/color/48/000000/anaconda.png) 
+![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) 
 
 ### 🗄️ Database Management Tools
 ![MySQL Server](https://img.icons8.com/color/48/000000/mysql-logo.png)
@@ -41,6 +46,15 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ragul_gopinath/)
 
 ---
+
+## 🎓 Education
+
+| **Degree**                           | **Institution**                                           | **Year**           |
+|--------------------------------------|----------------------------------------------------------|--------------------|
+| B.Tech (Information Technology)      | Velammal College of Engineering and Technology, Madurai  | 2022 - Present     |
+| Higher Secondary Education (HSC)     | Virudhunagar Hindu Nadar Higher Secondary School, Madurai | 2021 - 2022        |
+| Secondary School Education (SSLC)    | Virudhunagar Hindu Nadar Higher Secondary School, Madurai | 2019 - 2020        |
+
 
 ## 📊 GitHub Stats
 
