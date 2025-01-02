@@ -29,14 +29,15 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 ## ✨ IDEs and Tools
 
 ### 🛠 IDEs
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)  
-![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)  
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
+![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) 
 ![Anaconda](https://img.icons8.com/color/48/000000/anaconda.png) 
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) 
 
 ### 🗄️ Database Management Tools
-![MySQL Server](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![pgAdmin](https://img.icons8.com/color/48/000000/postgresql.png)
+![MySQL Server](https://img.icons8.com/color/48/000000/mysql-logo.png) 
+![pgAdmin](https://img.icons8.com/color/48/000000/postgresql.png) 
+![Oracle Server](https://img.icons8.com/color/48/000000/oracle-logo.png)
 
 ---
 
@@ -55,6 +56,7 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 | Higher Secondary Education (HSC)     | Virudhunagar Hindu Nadar Higher Secondary School, Madurai | 2021 - 2022        |
 | Secondary School Education (SSLC)    | Virudhunagar Hindu Nadar Higher Secondary School, Madurai | 2019 - 2020        |
 
+---
 
 ## 📊 GitHub Stats
 
