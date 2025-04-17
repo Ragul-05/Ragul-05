@@ -10,6 +10,20 @@ I’m **Ragul**, a **third-year IT student** at **Velammal College of Engineerin
 
 ---
 
+# 🌟 Project Highlights
+
+## 👗 Draping Hub: Elevate Your Style, Effortlessly
+- 🎨 Showcases premium pre-plating, Mehendi, and Aari Designer services.
+- 📷 Instagram-integrated gallery for rich visual experience.
+- 📬 Customer contact forms directly emailed to the owner using API.
+
+## 📞 My Contact Backend API: Scalable Contact Management
+- 📡 RESTful API for efficient CRUD operations on user contacts.
+- 💾 MongoDB Atlas for secure, scalable data storage.
+- 🛡️ JWT-based authentication with password hashing and response caching.
+
+---
+
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
